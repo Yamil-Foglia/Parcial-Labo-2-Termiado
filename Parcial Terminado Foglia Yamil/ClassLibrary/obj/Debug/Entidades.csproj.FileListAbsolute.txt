@@ -1,0 +1,17 @@
+D:\20191010-PrimerParcial-alumno\ClassLibrary\bin\Debug\c.dll
+D:\20191010-PrimerParcial-alumno\ClassLibrary\bin\Debug\c.pdb
+D:\20191010-PrimerParcial-alumno\ClassLibrary\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\20191010-PrimerParcial-alumno\ClassLibrary\obj\Debug\c.dll
+D:\20191010-PrimerParcial-alumno\ClassLibrary\obj\Debug\c.pdb
+D:\20191010-PrimerParcial-alumno\ClassLibrary\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Yama\Desktop\20191010-PrimerParcial-alumno\ClassLibrary\bin\Debug\c.dll
+C:\Users\Yama\Desktop\20191010-PrimerParcial-alumno\ClassLibrary\bin\Debug\c.pdb
+C:\Users\Yama\Desktop\20191010-PrimerParcial-alumno\ClassLibrary\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Yama\Desktop\20191010-PrimerParcial-alumno\ClassLibrary\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Yama\Desktop\20191010-PrimerParcial-alumno\ClassLibrary\obj\Debug\c.dll
+C:\Users\Yama\Desktop\20191010-PrimerParcial-alumno\ClassLibrary\obj\Debug\c.pdb
+D:\Parcial Terminado Foglia Yamil\ClassLibrary\bin\Debug\c.dll
+D:\Parcial Terminado Foglia Yamil\ClassLibrary\bin\Debug\c.pdb
+D:\Parcial Terminado Foglia Yamil\ClassLibrary\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Parcial Terminado Foglia Yamil\ClassLibrary\obj\Debug\c.dll
+D:\Parcial Terminado Foglia Yamil\ClassLibrary\obj\Debug\c.pdb

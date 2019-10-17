@@ -1,0 +1,45 @@
+D:\20191010-PrimerParcial-alumno\FrmCantina\bin\Debug\FrmCantina.exe.config
+D:\20191010-PrimerParcial-alumno\FrmCantina\bin\Debug\FrmCantina.exe
+D:\20191010-PrimerParcial-alumno\FrmCantina\bin\Debug\FrmCantina.pdb
+D:\20191010-PrimerParcial-alumno\FrmCantina\bin\Debug\ControlesUsuario.dll
+D:\20191010-PrimerParcial-alumno\FrmCantina\bin\Debug\c.dll
+D:\20191010-PrimerParcial-alumno\FrmCantina\bin\Debug\ControlesUsuario.pdb
+D:\20191010-PrimerParcial-alumno\FrmCantina\bin\Debug\c.pdb
+D:\20191010-PrimerParcial-alumno\FrmCantina\obj\Debug\FrmCantina.csprojAssemblyReference.cache
+D:\20191010-PrimerParcial-alumno\FrmCantina\obj\Debug\FrmCantina.FrmCantina.resources
+D:\20191010-PrimerParcial-alumno\FrmCantina\obj\Debug\FrmCantina.Properties.Resources.resources
+D:\20191010-PrimerParcial-alumno\FrmCantina\obj\Debug\FrmCantina.csproj.GenerateResource.cache
+D:\20191010-PrimerParcial-alumno\FrmCantina\obj\Debug\FrmCantina.csproj.CoreCompileInputs.cache
+D:\20191010-PrimerParcial-alumno\FrmCantina\obj\Debug\FrmCantina.csproj.CopyComplete
+D:\20191010-PrimerParcial-alumno\FrmCantina\obj\Debug\FrmCantina.exe
+D:\20191010-PrimerParcial-alumno\FrmCantina\obj\Debug\FrmCantina.pdb
+C:\Users\Yama\Desktop\20191010-PrimerParcial-alumno\FrmCantina\bin\Debug\FrmCantina.exe.config
+C:\Users\Yama\Desktop\20191010-PrimerParcial-alumno\FrmCantina\bin\Debug\FrmCantina.exe
+C:\Users\Yama\Desktop\20191010-PrimerParcial-alumno\FrmCantina\bin\Debug\FrmCantina.pdb
+C:\Users\Yama\Desktop\20191010-PrimerParcial-alumno\FrmCantina\bin\Debug\c.dll
+C:\Users\Yama\Desktop\20191010-PrimerParcial-alumno\FrmCantina\bin\Debug\ControlesUsuario.dll
+C:\Users\Yama\Desktop\20191010-PrimerParcial-alumno\FrmCantina\bin\Debug\c.pdb
+C:\Users\Yama\Desktop\20191010-PrimerParcial-alumno\FrmCantina\bin\Debug\ControlesUsuario.pdb
+C:\Users\Yama\Desktop\20191010-PrimerParcial-alumno\FrmCantina\obj\Debug\FrmCantina.csprojAssemblyReference.cache
+C:\Users\Yama\Desktop\20191010-PrimerParcial-alumno\FrmCantina\obj\Debug\FrmCantina.FrmCantina.resources
+C:\Users\Yama\Desktop\20191010-PrimerParcial-alumno\FrmCantina\obj\Debug\FrmCantina.Properties.Resources.resources
+C:\Users\Yama\Desktop\20191010-PrimerParcial-alumno\FrmCantina\obj\Debug\FrmCantina.csproj.GenerateResource.cache
+C:\Users\Yama\Desktop\20191010-PrimerParcial-alumno\FrmCantina\obj\Debug\FrmCantina.csproj.CoreCompileInputs.cache
+C:\Users\Yama\Desktop\20191010-PrimerParcial-alumno\FrmCantina\obj\Debug\FrmCantina.csproj.CopyComplete
+C:\Users\Yama\Desktop\20191010-PrimerParcial-alumno\FrmCantina\obj\Debug\FrmCantina.exe
+C:\Users\Yama\Desktop\20191010-PrimerParcial-alumno\FrmCantina\obj\Debug\FrmCantina.pdb
+D:\Parcial Terminado Foglia Yamil\FrmCantina\bin\Debug\FrmCantina.exe.config
+D:\Parcial Terminado Foglia Yamil\FrmCantina\bin\Debug\FrmCantina.exe
+D:\Parcial Terminado Foglia Yamil\FrmCantina\bin\Debug\FrmCantina.pdb
+D:\Parcial Terminado Foglia Yamil\FrmCantina\bin\Debug\c.dll
+D:\Parcial Terminado Foglia Yamil\FrmCantina\bin\Debug\ControlesUsuario.dll
+D:\Parcial Terminado Foglia Yamil\FrmCantina\bin\Debug\c.pdb
+D:\Parcial Terminado Foglia Yamil\FrmCantina\bin\Debug\ControlesUsuario.pdb
+D:\Parcial Terminado Foglia Yamil\FrmCantina\obj\Debug\FrmCantina.csprojAssemblyReference.cache
+D:\Parcial Terminado Foglia Yamil\FrmCantina\obj\Debug\FrmCantina.FrmCantina.resources
+D:\Parcial Terminado Foglia Yamil\FrmCantina\obj\Debug\FrmCantina.Properties.Resources.resources
+D:\Parcial Terminado Foglia Yamil\FrmCantina\obj\Debug\FrmCantina.csproj.GenerateResource.cache
+D:\Parcial Terminado Foglia Yamil\FrmCantina\obj\Debug\FrmCantina.csproj.CoreCompileInputs.cache
+D:\Parcial Terminado Foglia Yamil\FrmCantina\obj\Debug\FrmCantina.csproj.CopyComplete
+D:\Parcial Terminado Foglia Yamil\FrmCantina\obj\Debug\FrmCantina.exe
+D:\Parcial Terminado Foglia Yamil\FrmCantina\obj\Debug\FrmCantina.pdb

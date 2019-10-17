@@ -1,0 +1,4 @@
+D:\20191010-PrimerParcial-alumno\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+D:\20191010-PrimerParcial-alumno\ClassLibrary\obj\Debug\ClassLibrary.FrmCantina.resources
+D:\20191010-PrimerParcial-alumno\ClassLibrary\obj\Debug\ClassLibrary.csproj.GenerateResource.cache
+D:\20191010-PrimerParcial-alumno\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
